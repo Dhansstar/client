@@ -1,6 +1,6 @@
 # surveyapp
 
-A new Flutter project.
+SurveyApp (Role Admin and User), used Statemanagement GetX, with architecture Model-View-Cotnroller, and Service. i used SOLID for pattern parsing json
 
 ## Getting Started
 
